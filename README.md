@@ -95,4 +95,5 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 ```
 
 Conclusão
-Este projeto apresenta uma análise exploratória e a construção de um modelo de regressão linear simples para prever o desempenho dos estudantes. Com base nos resultados, o modelo não conseguiu explicar uma grande parte da variação nas notas, o que sugere que outras variáveis ou abordagens poderiam ser exploradas para melhorar as previsões.
+
+- Este projeto apresenta uma análise exploratória e a construção de um modelo de regressão linear simples para prever o desempenho dos estudantes. Com base nos resultados, o modelo não conseguiu explicar uma grande parte da variação nas notas, o que sugere que outras variáveis ou abordagens poderiam ser exploradas para melhorar as previsões.
