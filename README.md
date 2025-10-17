@@ -82,9 +82,10 @@ Verificação de homoscedasticidade
 Verificação de linearidade
 
 6. Análise Final
-O R² final do modelo foi de aproximadamente 0.030, o que indica que o modelo explica apenas uma pequena variação nas notas dos alunos.
+O R² final do modelo foi de aproximadamente 0.030, o que indica que o modelo explica apenas uma pequena variação nas notas dos alunos. Precisariamos aumentar a quantidade de váriaveis ou aplicar alguma transformação para termos dados mais padronizados e que atendam as suposições, por enquanto eles fogem do padrão e desviam de nossos gráficos.
 
 Como Rodar o Código
+
 Clone o repositório:
 
 ```bash
