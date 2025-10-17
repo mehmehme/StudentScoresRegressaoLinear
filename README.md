@@ -75,8 +75,11 @@ r2 = r2_score(y_test, y_pred)
 Diversas visualizações são geradas para verificar a qualidade do modelo:
 
 -Gráficos de resíduos
+
 -Gráfico Q-Q para normalidade dos resíduos
+
 -Verificação de homoscedasticidade
+
 -Verificação de linearidade
 
 6. Análise Final
