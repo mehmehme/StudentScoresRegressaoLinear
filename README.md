@@ -71,17 +71,16 @@ r2 = r2_score(y_test, y_pred)
 ```
 
 5. Visualizações
+
 Diversas visualizações são geradas para verificar a qualidade do modelo:
 
-Gráficos de resíduos
-
-Gráfico Q-Q para normalidade dos resíduos
-
-Verificação de homoscedasticidade
-
-Verificação de linearidade
+-Gráficos de resíduos
+-Gráfico Q-Q para normalidade dos resíduos
+-Verificação de homoscedasticidade
+-Verificação de linearidade
 
 6. Análise Final
+
 O R² final do modelo foi de aproximadamente 0.030, o que indica que o modelo explica apenas uma pequena variação nas notas dos alunos. Precisariamos aumentar a quantidade de váriaveis ou aplicar alguma transformação para termos dados mais padronizados e que atendam as suposições, por enquanto eles fogem do padrão e desviam de nossos gráficos.
 
 Como Rodar o Código
